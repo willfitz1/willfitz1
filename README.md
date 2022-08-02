@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Names Will, but you can call me Will. Im currently working on mastering CSS and back end development. Already being comfortable with the front end part, the back end is just as important. Im currently learning REACT and still working on my CSS skills. Im looking for help with understanding and creating react apps, still struggling a bit there. You can always ask me about my hobbies, or past jobs and experience. Im not shy! 
-
+🔭 I’m currently working on developing my coding and css skills.
+🌱 I’m currently learning HTML, CSS, and MERN.
+👯 I’m looking to collaborate on food, travel, gaming or any other projects.
+📫 How to reach me: Impossible.
+⚡ Fun fact: I've never broken a bone.
 <!--
 **willfitz1/willfitz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
