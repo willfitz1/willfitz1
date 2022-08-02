@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Names Will, but you can call me Will. Im currently working on a website for reviews, havent just picked the topic just yet. Im currently learning REACT and still working on my CSS skills. Im looking for help with understanding and creating react apps, still struggling a bit there. You can always ask me about my hobbies, or past jobs and experience. Im not shy! 
+Names Will, but you can call me Will. Im currently working on mastering CSS and back end development. Already being comfortable with the front end part, the back end is just as important. Im currently learning REACT and still working on my CSS skills. Im looking for help with understanding and creating react apps, still struggling a bit there. You can always ask me about my hobbies, or past jobs and experience. Im not shy! 
 
 <!--
 **willfitz1/willfitz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
