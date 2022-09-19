@@ -1,15 +1,15 @@
-Hello there, My name is William Fitzgerald
+Hello there, my name is William Fitzgerald
 ====================================================================================================================================
 
 Full Stack Developer
 ----------------------------
 
-I am a graduate of General Assembly's Software Engineering Immersive Program with a non-coding background in pyshcology.
+I am a graduate of General Assembly's Software Engineering Immersive Program with a non-coding background in Psychology. I've always loved working in the field as a sales associate, team leader, or even a shift supervisor, but it was time to bring my talents to the world of technology, my true passion. Since I started learning the different languages of the engineer world, I'm putting everything I learn into projects to further develop my skills. Some more about me, I'm an avid gamer, I love to cook, I love cats, and I can't stay away from the ocean.
 
-* 🌍  I'm based in Boston
+* 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [https://portfolio-452d6.web.app/](https://portfolio-452d6.web.app/)
 * ✉️  You can contact me at [willfitzy03@gmail.com](mailto:willfitzy03@gmail.com.com)
-* 🧠  I'm learning Django and Python
+* 🧠  I'm learning Redux and Django
 * 🤝  I'm open to collaborating on React Apps!
 * ⚡  I love to swim and play sports
 
@@ -39,4 +39,6 @@ I am a graduate of General Assembly's Software Engineering Immersive Program wit
 
 <a href="http://www.github.com/willfitz1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=willfitz1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### Check out my projects! 
+#### [Starred](https://starred-react.herokuapp.com/)
 
